@@ -1,4 +1,4 @@
-#Tài liệu ghi chép Mysql
+# Tài liệu ghi chép Mysql
 
 
 
@@ -35,7 +35,7 @@ Một **Hệ thống quản lý cơ sở dữ liệu quan hệ (RDBMS)** là m�
 - **Index:** Một chỉ mục trong một cơ sở dữ liệu tương tự như chỉ mục trong một cuốn sách.
 - **Referential Integrity:** Đảm bảo rằng một giá trị Foreign Key luôn luôn trỏ tới một hàng đang tồn tại.
 
-##2. Thao tác với cơ sở dữ liệu trong mysql
+## 2. Thao tác với cơ sở dữ liệu trong mysql
 
 - Để tạo một cơ sở dữ liệu ta sử dụng câu lệnh sau:
 
@@ -63,9 +63,9 @@ Một **Hệ thống quản lý cơ sở dữ liệu quan hệ (RDBMS)** là m�
 
 `USE learning_mysql;`
 
-##3. Thao tác với bảng trong cơ sở dữ liệu mysql.
+## 3. Thao tác với bảng trong cơ sở dữ liệu mysql.
 
-###3.1 Tạo bảng trong mysql
+### 3.1 Tạo bảng trong mysql
 - Lệnh tạo bảng trong mysql bao gồm:
 
 - Tên bảng.
